@@ -11,6 +11,10 @@ body{
     background-position: top center;
 }
 
+.search-box{
+    font-size: 10px;
+}
+
 .app-wrap{
     display: flex;
     flex-direction: column;
